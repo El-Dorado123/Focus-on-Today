@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    margin:0;
+    padding:0;
 }
 body{
     background-color: rgba(72,163,0,0.07);
@@ -125,7 +127,7 @@ main{
     text-align: center;
     font-weight: 500;
     color: #858585;
-    margin-top: 64px;
+    margin-top: 32px;
 }
 .completed .custom-checkbox{
     border-color: #48A300;
